@@ -8,9 +8,9 @@ A multiplayer strategy game with elements of AI, physics and networking. Built w
 Example Player Units:
 
 
-| White Blood Cell                      | Tank Virus                     | Ranged Damage Bacteria           |
-| ------------------------------------- | ------------------------------ | -------------------------------- |
-| ![image](images/white_blood_cell.gif) | ![image](images/tank_unit.gif) | ![image](images/ranged_unit.gif) |
+| White Blood Cell                      | Tank Virus                     | Ranged Damage Bacteria           | Boss                      |
+| ------------------------------------- | ------------------------------ | -------------------------------- | ------------------------- |
+| ![image](images/white_blood_cell.gif) | ![image](images/tank_unit.gif) | ![image](images/ranged_unit.gif) | ![image](images/boss.gif) |
 
 
 Example Maps:
@@ -22,7 +22,38 @@ Example Maps:
 ### Heart
 ![image](images/heart_map.gif)
 
-# Introduction
+# Player Journey
+
+When a user starts the game, they are directed to the main menu screen
+
+![image](images/mainmenu.PNG)
+
+Here they can select the game type they'd like to play. Once they've selected, they are propted to choose which disease they'd like to play as from a choice of 3.
+
+![image](images/VirusSelection.PNG)
+
+Then the user selects which organ to conquer. Each organ has points associated with it, and at the end the player with the most points wins.
+
+![image](images/OrganSelection.PNG)
+
+Then, the encounter takes place. The user selects which unit to drag and drop onto one of the three lanes on the map. Each unit requires a combination of the three replenishable resources: Protein, Carbs and Fats. These can be tracked using the bars on the left side of the screen.
+
+![image](images/encounter.gif)
+
+The units will slowly advance from the player's corner to the opponent's corner on the chosen lane. When the units reach the enemy boss, they start dealing damage. The round is won when the enemy boss dies, or when the timer ends. In this case, the winner is the player with the boss that has more health.
+
+![image](images/Winning.PNG)
+
+The points are then added to the Leaderboard. These scores are stored in the database.
+
+![image](images/Leaderboard.PNG)
+
+
+
+
+
+
+# Description
 
 This is a team project of 5 agile devlopers to create a competitive game with the elements of artificial intelligence, physics and networking. After careful consideration, we decided to build a top-down, multiplayer strategy game in which two different diseases compete against each other to be the one who ultimately takes over the human body. It is called Body Conquest.
 
