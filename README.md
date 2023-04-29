@@ -5,7 +5,7 @@ A multiplayer strategy game with elements of AI, physics and networking. Built w
 ![image](images/Encounter.PNG)
 
 
-Example Player Units:
+## Example Player Units:
 
 
 | White Blood Cell                      | Tank Virus                     | Ranged Damage Bacteria           | Boss                      |
@@ -13,7 +13,7 @@ Example Player Units:
 | ![image](images/white_blood_cell.gif) | ![image](images/tank_unit.gif) | ![image](images/ranged_unit.gif) | ![image](images/boss.gif) |
 
 
-Example Maps:
+## Example Maps:
 
 ### Mouth
 ![image](images/mouth_map.gif)
