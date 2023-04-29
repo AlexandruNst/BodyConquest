@@ -4,6 +4,7 @@ A multiplayer strategy game with elements of AI, physics and networking. Built w
 
 ![image](images/Encounter.PNG)
 
+
 Example Player Units:
 
 
@@ -11,6 +12,15 @@ Example Player Units:
 | ------------------------------------- | ------------------------------ | -------------------------------- |
 | ![image](images/white_blood_cell.gif) | ![image](images/tank_unit.gif) | ![image](images/ranged_unit.gif) |
 
+
+Example Maps:
+
+### Mouth
+![image](images/mouth_map.gif)
+### Eyes
+![image](images/eyes_map.gif)
+### Heart
+![image](images/heart_map.gif)
 
 # Introduction
 
