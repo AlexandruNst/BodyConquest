@@ -1,9 +1,9 @@
 # BodyConquest
 # Preview
-A multiplayer strategy game with elements of AI, physics and networking. Built with Java and PostgreSQL. Two different diseases compete against each other to be the one who ultimately takes over the human body. It is called Body Conquest.
 
 ![image](images/Encounter.PNG)
 
+A multiplayer strategy game with elements of AI, physics and networking. Built with Java and PostgreSQL. Two different diseases compete against each other to be the one who ultimately takes over the human body. It is called Body Conquest. All art is custom made for this game.
 
 ## Example Player Units:
 
@@ -55,7 +55,7 @@ The points are then added to the Leaderboard. These scores are stored in the dat
 
 # Description
 
-This is a team project of 5 agile devlopers to create a competitive game with the elements of artificial intelligence, physics and networking. After careful consideration, we decided to build a top-down, multiplayer strategy game in which two different diseases compete against each other to be the one who ultimately takes over the human body. It is called Body Conquest.
+This is a team project of 5 agile developers to create a competitive game with the elements of artificial intelligence, physics and networking. After careful consideration, we decided to build a top-down, multiplayer strategy game in which two different diseases compete against each other to be the one who ultimately takes over the human body. It is called Body Conquest.
 
 Intuitive game-play, complex combat system, short battle times and the multiplayer
 mode make sure that the user does not get bored quickly. Moreover, single player
